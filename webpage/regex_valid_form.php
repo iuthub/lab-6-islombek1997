@@ -1,5 +1,4 @@
 <?php
-
 	$pattern="";
 	$text="";
 	$replaceText="";
